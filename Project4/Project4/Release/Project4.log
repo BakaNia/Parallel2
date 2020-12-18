@@ -1,0 +1,8 @@
+﻿  cpp_accumulator.cpp
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa21832.14333\row-master\cpp_accumulator.cpp(1,10): fatal error C1083: Не удается открыть файл включение: interface.h: No such file or directory,
+  num_threads.cpp
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa21832.14333\row-master\num_threads.cpp(1,10): fatal error C1083: Не удается открыть файл включение: num_threads.h: No such file or directory,
+  run_experiments.cpp
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa21832.14333\row-master\run_experiments.cpp(1,10): fatal error C1083: Не удается открыть файл включение: experiments.h: No such file or directory,
+  Source.cpp
+C:\Users\CrazyB\AppData\Local\Temp\Rar$DRa21832.14333\row-master\Source.cpp(2,10): fatal error C1083: Не удается открыть файл включение: num_threads.h: No such file or directory,
